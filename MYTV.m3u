@@ -1,0 +1,64 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Фильмовые",entermusictv
+http://v2.catcast.me/content/36007/index.m3u8
+#EXTINF:-1 group-title="Новостные",Australia Channel
+http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:-1 group-title="Новостные",CBN Family
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+#EXTINF:-1 group-title="Новостные",CBSN
+http://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8
+#EXTINF:-1 group-title="Новостные",DW English
+http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,California Music Channel
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/A4GMBN6.png" tvg-country="US" tvg-url="" group-title="United States",Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/iJldO7U.jpg" tvg-country="US" tvg-url="" group-title="United States",NASA TV
+http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/ixywxhs.jpg" tvg-country="US" tvg-url="" group-title="United States",Adult Swim
+https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
+#EXTINF:-1,National Geographic Wild HD
+#EXTGRP:Познавательные
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#EXTINF:0,Da Vinci
+#EXTGRP:Познавательные
+https://sc.id-tv.kz/DaVinci_34_35.m3u8
+#EXTINF:-1,ТВ Экстра
+#EXTGRP:Познавательные
+http://live-1.otcnet.ru:80/tvextra720b/index.m3u8
+#EXTINF:-1,WORLD HD
+#EXTGRP:Познавательные
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:-1,Под Водой FHD
+#EXTGRP:Познавательные
+http://live-1.otcnet.ru/podvodoi/index.m3u8
+#EXTINF:-1,Travel Guid-TV
+#EXTGRP:Познавательные
+http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
+#EXTINF:-1,KINDER TV
+#EXTGRP:Детские
+https://v2.catcast.tv/content/38144/index.m3u8
+#EXTINF:-1,Disney канал
+#EXTGRP:Детские
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,2x2
+#EXTGRP:Детские
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,Карусель
+#EXTGRP:Детские
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,Retro Music
+#EXTGRP:Музыка
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 group-title="Новости" tvg-id="88.iptvbarmen.tk" tvg-logo="http://iptvbarmen.tk/uploads/icon/88.png" tvg-name="BBC World News",BBC World News
+#EXTGRP:Новости
+http://84.47.174.140/hlsl/2/BBC_World/BBC_World.m3u8
+#EXTINF:-1 ,France 24 English
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+#EXTINF:-1 ,NHK 华语视界
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 group-title="Music;Undefined",Kronehit HD
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1 group-title="УКРАИНА",НТА ТВ ЛЬВОВ HD
+http://95.67.106.10/hls/nta_ua_mid/index.m3u8
