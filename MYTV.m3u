@@ -62,3 +62,60 @@ https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1 group-title="УКРАИНА",НТА ТВ ЛЬВОВ HD
 http://95.67.106.10/hls/nta_ua_mid/index.m3u8
+#EXTINF:-1,IZ.RU HD
+#EXTGRP:Эфирные HD
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8?token=gelow74
+#EXTINF:-1,Русская Америка TV
+#EXTGRP:Эфирные
+https://stream.russianamerica.tv/ratv/index.m3u8?token=gelow74
+#EXTINF:-1,Евроновости
+#EXTGRP:Новости
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8?token=gelow74
+#EXTINF:-1,Travel + Adventure HD
+#EXTGRP:Познавательные
+http://live-1.otcnet.ru/ta/tracks-v1a1/index.m3u8
+#EXTINF:-1,National Geographic HD
+#EXTGRP:Познавательные
+http://87.247.44.26/btv/SWM/NatGeo_channel/NatGeo_channel_1080p_5000kbps.m3u8
+#EXTINF:-1,History HD
+#EXTGRP:Познавательные
+http://46.34.209.244:80/btv/SWM/HistoryHD/HistoryHD_1080p_5000kbps.m3u8
+#EXTINF:-1,Discovery HD
+#EXTGRP:Познавательные
+http://46.34.209.243/btv/SWM/discovery_hd/discovery_hd_1080p_5000kbps.m3u8
+#EXTINF:-1,Трофей HD
+#EXTGRP:Познавательные
+http://5db1ab4f970be.streamlock.net:1935/live/smil:trofey.smil/chunklist_w1068339373_b878000_slukr.m3u8?
+#EXTINF:-1,English Club TV
+#EXTGRP:Познавательные
+http://46.34.209.243/btv/SWM/English_Club_TV/English_Club_TV_576p_2000kbps.m3u8?token=gelow74
+#EXTINF:-1,FILM VHS
+#EXTGRP:Кино и сериалы
+http://autopilot.catcast.tv/content/38792/index.m3u8
+#EXTINF:-1,Cartoon Network
+#EXTGRP:Детские
+http://188.232.102.167:9981/stream/channelid/510640133
+#EXTINF:-1,Nickelodeon HD
+#EXTGRP:Детские
+http://185.228.135.48:8080/tv_nickelodeon_hd/tracks-v1a1/index.m3u8
+#EXTINF:-1,2x2 HD
+#EXTGRP:Детские
+https://bl.uma.media/live/317805/HLS/4614144_3,2883584_2,1153024_1/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8?token=gelow74
+#EXTINF:-1,Baby TV
+#EXTGRP:Детские
+https://okkotv-live.cdnvideo.ru/channel/BabyTV/480p.m3u8
+#EXTINF:-1,Disney Channel HD USA
+#EXTGRP:Детские
+http://stream.tvtap.live:8081/live/disney.stream/chunks.m3u8
+#EXTINF:-1,HITV HD
+#EXTGRP:Музыка HD
+http://rosshow.gcdn.co/streams/1410_287/720n/index.m3u8?token=gelow74
+#EXTINF:-1,MTV HD Russia
+#EXTGRP:Музыка HD
+http://188.40.68.167/russia/mtv_dance/playlist.m3u8?token=gelow74
+#EXTINF:-1,1 HD
+#EXTGRP:Музыка HD
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8?token=gelow74
+#EXTINF:-1,Internet Music HD
+#EXTGRP:Музыка HD
+https://cdn-curie.wasd.tv/live/300432/tracks-v1a1/mono.m3u8?token=gelow74
