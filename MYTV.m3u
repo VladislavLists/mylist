@@ -126,3 +126,17 @@ https://eurodance90.catcast.tv/content/36987/index.m3u8
 #EXTINF:-1,2x2 HD
 #EXTGRP:Детские
 https://bl.uma.media/live/317805/HLS/4614144_3,2883584_2,1153024_1/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8
+#EXTINF:-1 tvg-id="foxnews.us" tvg-name="Fox News HD VIP US" tvg-logo="https://i.postimg.cc/X7Jybfw7/Fox-News.png" group-title="United States",Fox News HD VIP US
+http://mag.you24.online:8080/xkdgu3zeuo/succhiamelo/678142
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="CNN FHD US" tvg-logo="https://i.postimg.cc/50PhvWjz/CNN.png" group-title="United States",CNN FHD US
+http://mag.you24.online:8080/xkdgu3zeuo/succhiamelo/6359
+#EXTINF:-1 tvg-id="bbcamerica.us" tvg-name="BBC America HD VIP US" tvg-logo="https://i.postimg.cc/Pr1z6MfP/BBC-America-1998.jpg" group-title="United States",BBC America HD VIP US
+http://mag.you24.online:8080/xkdgu3zeuo/succhiamelo/14392
+#EXTINF:-1 tvg-id="comedycentral.us" tvg-name="Comedy Central HD US" tvg-logo="https://i.postimg.cc/jdXHySd1/Comedy-Central-2018.jpg" group-title="United States",Comedy Central HD US
+http://mag.you24.online:8080/xkdgu3zeuo/succhiamelo/4882
+#EXTINF:-1 tvg-id="syfy.us" tvg-name="Syfy HD US" tvg-logo="https://i.postimg.cc/pLSnBhNs/Syfy.jpg" group-title="United States",Syfy HD US
+http://mag.you24.online:8080/xkdgu3zeuo/succhiamelo/648340
+#EXTINF:-1 tvg-id="cbs4wfor.us" tvg-name="CBS HD VIP US" tvg-logo="https://i.postimg.cc/T1Fn3Cjv/CBS.jpg" group-title="United States",CBS HD VIP US
+http://mag.you24.online:8080/xkdgu3zeuo/succhiamelo/4885
+#EXTINF:-1 tvg-id="mtv.us" tvg-name="MTV HD US" tvg-logo="https://i.postimg.cc/fy9sSfSh/MTV.jpg" group-title="United States",MTV HD US
+http://mag.you24.online:8080/xkdgu3zeuo/succhiamelo/14342
