@@ -119,3 +119,10 @@ http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8?token=gelo
 #EXTINF:-1,Internet Music HD
 #EXTGRP:Музыка HD
 https://cdn-curie.wasd.tv/live/300432/tracks-v1a1/mono.m3u8?token=gelow74
+
+#EXTINF:-1,Евроденс 90х
+#EXTGRP:Музыка
+https://eurodance90.catcast.tv/content/36987/index.m3u8
+#EXTINF:-1,2x2 HD
+#EXTGRP:Детские
+https://bl.uma.media/live/317805/HLS/4614144_3,2883584_2,1153024_1/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8
