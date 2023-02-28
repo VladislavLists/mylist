@@ -42,9 +42,8 @@ https://v2.catcast.tv/content/38144/index.m3u8
 #EXTINF:-1,Disney канал
 #EXTGRP:Детские
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,2x2
-#EXTGRP:Детские
-http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 ,2x2
+https://bl.uma.media/live/317805/HLS/317805_3/1/1/playlist.m3u8
 #EXTINF:-1,Карусель
 #EXTGRP:Детские
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/bw2000000/variant.m3u8?version=2
@@ -98,9 +97,6 @@ http://188.232.102.167:9981/stream/channelid/510640133
 #EXTINF:-1,Nickelodeon HD
 #EXTGRP:Детские
 http://185.228.135.48:8080/tv_nickelodeon_hd/tracks-v1a1/index.m3u8
-#EXTINF:-1,2x2 HD
-#EXTGRP:Детские
-https://bl.uma.media/live/317805/HLS/4614144_3,2883584_2,1153024_1/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8?token=gelow74
 #EXTINF:-1,Baby TV
 #EXTGRP:Детские
 https://okkotv-live.cdnvideo.ru/channel/BabyTV/480p.m3u8
@@ -123,9 +119,6 @@ https://cdn-curie.wasd.tv/live/300432/tracks-v1a1/mono.m3u8?token=gelow74
 #EXTINF:-1,Евроденс 90х
 #EXTGRP:Музыка
 https://eurodance90.catcast.tv/content/36987/index.m3u8
-#EXTINF:-1,2x2 HD
-#EXTGRP:Детские
-https://bl.uma.media/live/317805/HLS/4614144_3,2883584_2,1153024_1/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8
 #EXTINF:-1 tvg-id="foxnews.us" tvg-name="Fox News HD VIP US" tvg-logo="https://i.postimg.cc/X7Jybfw7/Fox-News.png" group-title="United States",Fox News HD VIP US
 http://mag.you24.online:8080/xkdgu3zeuo/succhiamelo/678142
 #EXTINF:-1 tvg-id="cnn.us" tvg-name="CNN FHD US" tvg-logo="https://i.postimg.cc/50PhvWjz/CNN.png" group-title="United States",CNN FHD US
