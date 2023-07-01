@@ -133,3 +133,404 @@ http://mag.you24.online:8080/xkdgu3zeuo/succhiamelo/648340
 http://mag.you24.online:8080/xkdgu3zeuo/succhiamelo/4885
 #EXTINF:-1 tvg-id="mtv.us" tvg-name="MTV HD US" tvg-logo="https://i.postimg.cc/fy9sSfSh/MTV.jpg" group-title="United States",MTV HD US
 http://mag.you24.online:8080/xkdgu3zeuo/succhiamelo/14342
+
+#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/09/6aa9cadebedaac4d2527b8ed8f1c0017.png",-plsf 22.06.2023 21:44 channels 200 iptvin.ru
+http://sh3304149.c.had.su/iptvin.ru.mp4
+#EXTINF:-1 tvg-id="360-news" catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/107/index-${start}-${offset}.m3u8?token=610666%2C%2C%2C4924337693" group-title="Новости" tvg-logo="https://www.lyngsat.com/logo/tv/num/360-degree-novosti-ru.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/07/e2009a7370610e1ae53dff26d658902a.png" channelId="3976",360 Новости HD
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
+#EXTINF:-1 catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/17/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Новости" tvg-logo="https://stv.ee/images/chlogos/Logo_new.png" logo="http://s8.hostingkartinok.com/uploads/images/2021/02/43deb4eabc184ace07fc7116a8884cc3.png" channelId="405" tvg-id="rtvi",RTVI
+http://138.201.67.145:8081/rtvi/index.m3u8
+#EXTINF:-1 group-title="Новости" tvg-logo="https://static.tildacdn.com/tild6338-6539-4138-b564-323837366264/unnamed.jpg" logo="http://sh3304149.c.had.su/epg/PIC/%D0%94%D0%BE%D0%B6%D0%B4%D1%8C.png" channelId="38" tvg-id="dozhd",Дождь
+http://portal.ott.pink/watch/7319/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 tvg-id="izvestia" catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/106/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Новости" tvg-logo="https://toplogos.ru/images/logo-iz.png" channelId="1104",Известия HD
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-1 catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/113/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Новости" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/06/9f6bcd39e40e07dc407eab0e9e369ce1.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/06/e649685f843f00b17d86b03ee86c7027.png" channelId="4640" tvg-name="Настоящее время" tvg-id="nastoyaschee-vremia",Настоящее время HD
+http://91.233.215.250:7272/J8BymSQSWStHrzm
+#EXTINF:-1 tvg-id="rbk" catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/104/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Новости" tvg-logo="https://hsto.org/getpro/moikrug/uploads/company/372/015/357/logo/medium_9af6ded0767de9d07664e509a3ffbb4a.png" logo="http://sh3304149.c.had.su/epg/PIC/1_0_16_525_D_70_1680000_0_0_0.png" channelId="9",РБК
+http://93.125.34.51:30002/RBK/index.m3u8
+#EXTINF:-1 tvg-id="rossia-24" group-title="Новости" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png" logo="http://www.tamby.info/tv_online/images/120/24.jpg" channelId="10",Россия 24
+http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
+#EXTINF:-1 tvg-id="solovjinypomiot" group-title="Новости",Соловьев live
+http://192.162.64.222:4000/play/a06d/index.m3u8
+#EXTINF:-1 tvg-id="ani" catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/126/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Детские" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/07/a54b814b67ea095401aeaee2319a72c8.jpg" logo="http://sh3304149.c.had.su/epg/PIC/1_0_16_19B_4_70_1680000_0_0_0.png" channelId="2830",Ani
+http://streamer1.ruslanatv.ru/russia/ani_sd_2023/playlist.m3u8
+#EXTINF:-1 catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/275/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Детские" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/02/e0dd874cdff84fff612ed64f089ee84e.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/02/d0dab507986f02bfa356d01482eeffef.png" channelId="5210" tvg-id="baby-time",Baby Time
+http://192.162.64.222:4000/play/a05u/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/05/55e9b21a45dd51c71ff0b64014400eb0.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/05/2c4f34f00d139473678ea6b974c73516.png" channelId="322" tvg-id="nick-jr",Nick Jr
+http://91.233.215.250:7272/Jke5tdvCxp2Yhs6
+#EXTINF:-1 group-title="Детские" tvg-logo="https://i.ibb.co/wQb93ZB/Vb-Hi-U4b2-400x400.jpg" logo="http://sh3304149.c.had.su/epg/PIC/Nickelodeon.png" channelId="41" tvg-id="nickelodeon-ru",Nickelodeon
+http://91.233.215.250:7272/DL3JGiEPHMCY4vy
+#EXTINF:-1 tvg-id="v-gostiax-u-skazki" catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/120/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Детские" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/cbf10781013b9e9473c8b1430aa15d62.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/05/8c7b698bd668d8afd1eb1a89be1f44c8.png" channelId="3556",В гостях у сказки
+http://94.158.54.107/152/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="detsky-mir" catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/124/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Детские" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/03/2bd4c8af1670253241e51f8df33cb8a0.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/03/d5b1c880e0c2fdc576be6604a67a0233.png" channelId="39",Детский мир
+http://streamer1.ruslanatv.ru/russia/detskiy_mir_2023/playlist.m3u8
+#EXTINF:-1 tvg-id="ginger-hd" group-title="Детские" tvg-logo="http://only4.tv/ch/0148.png" logo="http://s8.hostingkartinok.com/uploads/images/2021/02/468568991e91f610a1607c976c77f473.png" channelId="2674",Капитан Фантастика HD
+http://93.125.34.51:30002/Nickelodeon/index.m3u8
+#EXTINF:-1 tvg-id="karusel-int" group-title="Детские",Карусель Int.
+http://93.125.34.51:30002/Karusel/index.m3u8
+#EXTINF:-1 tvg-id="karusel" catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/117/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Детские" tvg-logo="http://only4.tv/ch/822.png" logo="http://sh3304149.c.had.su/epg/PIC/1_0_16_336_8_70_168AFFC_0_0_0.png" channelId="20",Карусель
+http://s18209.cdn.ngenix.net/hls/CH_R01_KARUSEL/playlist.m3u8
+#EXTINF:-1 tvg-id="mult" catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/283/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Детские" tvg-logo="http://only4.tv/ch/0141.png" logo="http://sh3304149.c.had.su/epg/PIC/%D0%9C%D1%83%D0%BB%D1%8C%D1%82%20HD.png" channelId="1722",Мульт HD
+http://93.125.34.51:30002/Mult/index.m3u8
+#EXTINF:-1 tvg-id="multimania" catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/118/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Детские" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/03/4cb56b365d341b49616bd671747ed6ff.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/03/c8bc685a60a9e4df35a584848cc6e773.png" channelId="186",Мультиландия
+http://217.107.34.114:8008/playlist.m3u8
+#EXTINF:-1 tvg-id="multimuzyka" catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/121/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Детские" tvg-logo="http://www.oreol.tv/img/multmus.jpg" logo="http://televizor.org/img/logopit/%D0%9C%D1%83%D0%BB%D1%8C%D1%82%D0%B8%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0.png" channelId="3704",Мультимузыка
+http://80.251.49.103:8003/play/84
+#EXTINF:-1 tvg-id="o_" catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/119/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Детские" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/07/643663e6724dd77ceec2172e1a9ae53a.png" logo="http://sh3304149.c.had.su/epg/PIC/1_0_16_328_8_70_168AFFC_0_0_0.png" channelId="3294",О!
+http://192.162.64.222:5200/play/a039/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/01/5b2cfe86de6ca8068c39f225c642989c.png" logo="http://sh3304149.c.had.su/epg/PIC/%D0%A0%D1%8B%D0%B6%D0%B8%D0%B9.png" channelId="2798" tvg-id="ryzhy",Рыжий
+http://192.162.64.99:5200/play/a038/index.m3u8
+#EXTINF:-1 tvg-id="sts-kids-hd" catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/125/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Детские" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/4b8f80b54f10d61a39401dae3de98fea.jpg" logo="https://i115.fastpic.org/big/2021/0914/28/b834cc62069d57372700229cc7a42328.png" channelId="1728",СТС Kids HD
+http://138.201.67.145:8081/stskids/index.m3u8
+#EXTINF:-1 tvg-id="solnce" group-title="Детские" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/01/6cc884bfb2c8a1e551f8a30beceb0ed8.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/01/5f109cec2eeee3d16263b4ddbb4173ef.png" channelId="958",Солнце
+http://192.162.64.222:4000/play/a057/index.m3u8
+#EXTINF:-1 tvg-id="detsky" catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/130/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Детские" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/0195680ec15144a8eacf4e5527ee31ce.png" logo="http://sh3304149.c.had.su/epg/PIC/%D0%A3%D0%BD%D0%B8%D0%BA%D1%83%D0%BC%20HD.png" channelId="192",Уникум
+http://93.125.34.51:30002/Detsky/index.m3u8
+#EXTINF:-1 tvg-id="amedia1" group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/03/84d11acae275f9c0a12e14ee6cf352b6.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/03/3ebeb6a5f37e095df2006060d7b0c907.png" channelId="913",Amedia 1
+http://streamer1.ruslanatv.ru/russia/amedia_2023/playlist.m3u8
+#EXTINF:-1 tvg-id="amedia2" group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/03/e0cdac03eb4335550594fa9a5903f25a.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/03/06e06f7bfc6345c83a1e15ac8de5695c.png" channelId="914",Amedia 2
+http://europe3.livetv.az/russia/amedia2_sd_new_2023/playlist.m3u8
+#EXTINF:-1 tvg-id="amedia-premium" group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/03/47175a529bc265c82e8e24776f75db9e.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/03/9cb4dd172d2d5820f53fcfb7948b04de.png" channelId="915",Amedia Premium HD
+http://93.125.34.51:30002/AmediaPremiumHD/index.m3u8
+#EXTINF:-1 catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/96/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/1XXcn9D/437-250.jpg" logo="http://s1.hostingkartinok.com/uploads/images/2021/07/d3662b260ec453d1031f384a733aa98a.png" channelId="3884" tvg-name="Bolt" tvg-id="bolt" tvg-country="UA",Bolt HD
+http://91.233.215.250:7272/6B1DxxB8sXUqpZM
+#EXTINF:-1 tvg-id="cinema-ru" group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/03/c34e63bd524a6cebfa54c385342caf38.jpg" logo="https://antifriz.tv/storage/images/pack_logos/199f12272161f01943e3972bdbb88db4.png" channelId="181",Cinema
+http://192.162.64.99:5200/play/a029/index.m3u8
+#EXTINF:-1 tvg-id="duo7lv" group-title="Кино и сериалы",Duo7 HD LV
+http://91.233.215.250:7272/OidghvyF6N7KlSd
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/12/b096849286769a18887753f9c09e3868.png" logo="http://sh3304149.c.had.su/epg/PIC/FAN HD.png" channelId="3926" tvg-id="fanhd",FAN
+http://94.230.240.17:8080/fan/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Film.UA Drama
+http://91.233.215.250:7272/gZOp9UD53BBKqyQ
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/5558.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/03/51ca9eb7233379ac08c839c46e8ce1da.png" channelId="2959" tvg-id="filmbox-ru",FilmBox
+http://94.230.240.17:8080/film_box/index.m3u8
+#EXTINF:-1 audio-track="ru" group-title="Кино и сериалы",Filmzone LV
+http://91.233.215.250:7272/ko7BKj9NV0ZCX2C
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/17108.png" logo="http://s8.hostingkartinok.com/uploads/images/2021/02/0ba59c77f212a9d6e101fd24ba1299f0.png" channelId="3920" tvg-id="hollywood-hd",Hollywood HD
+http://93.125.34.51:30002/MGM_HD/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/02/80f99c9f0ec894ddd1c2fc289053d584.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/02/e37b02f4c3293c590eb823d597b1f7b2.png" channelId="-1" tvg-name="Kino 7 LV" tvg-id="kino7-lv",Kino 7 HD LV
+http://91.233.215.250:7272/Hdyt7wbXlSuwOpq
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/11/0715e6f91f1270a9dd2c17357c864a6c.png" logo="http://sh3304149.c.had.su/epg/PIC/_Transp_2.png" channelId="-1" tvg-id="plan-b",Plan B HD
+http://192.162.64.99:5100/play/a02t/index.m3u8
+#EXTINF:-1 catchup="default" stream-id="stream_id" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/301/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Кино и сериалы" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/04/41298209acdfb5c5315ec70fbf6c92e6.png" logo="https://static.sweet.tv/images/icons/channels/502.png" channelId="4518" tvg-id="star-cinema" tvg-country="RU",Star Cinema HD
+http://91.233.215.250:7272/szWljUvHlTAKXVa
+#EXTINF:-1 catchup="default" stream-id="stream_id" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/300/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/6213.png" logo="https://i.ibb.co/WsFHGrt/Star-Family-HD-220x132-tr.png" channelId="4825" tvg-name="Star Family" tvg-id="star-family" tvg-country="RU",Star Family HD
+http://89.254.128.5:22280/star_family_hd/video.m3u8
+#EXTINF:-1 tvg-id="start-air" group-title="Кино и сериалы",Start Air HD
+http://192.162.64.99:5200/play/a02u/index.m3u8
+#EXTINF:-1 tvg-id="start-world" group-title="Кино и сериалы",Start World HD
+http://192.162.64.222:5200/play/a02b/index.m3u8
+#EXTINF:-1 tvg-id="tv1000-action" catchup="default" stream-id="stream_id" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/87/index-${start}-${offset}.m3u8?token=610666%2C%2C%2C4924337693" group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/01/092282226e7180fa520678eac647a853.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/01/6152a0863a53ddce927cf0e86d044ff9.png" channelId="214" tvg-name="TV1000 Action",TV 1000 Action HD
+https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="tv1000" catchup="default" stream-id="stream_id" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/88/index-${start}-${offset}.m3u8?token=610666%2C%2C%2C4924337693" group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/01/d323d1c8940cce27e8faa24a9cfcd5b0.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/01/057512077cf298614beddfdf244bf734.png" channelId="66" tvg-name="TV1000 HD",TV 1000 HD
+https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="tv1000-russkoe-kino" catchup="default" stream-id="stream_id" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/62/index-${start}-${offset}.m3u8?token=610666%2C%2C%2C4924337693" group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/01/ceb9f6c2523e41bb0d9f1dc0177e3807.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/01/ebc533f51b660b3c8d2bf47d2322a1b7.png" channelId="65" tvg-name="TV1000 Русское кино",TV 1000 Русское кино HD
+https://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",TV Extra
+http://91.233.215.250:7272/IurtgdVgs6Tfa8J
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/04/5ebf72dd5afbad0f4e24aaab6915d899.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/04/569e72085cef47f9b69845251b1dd1a6.png" channelId="-1" tvg-id="timeless-dizi",Timeless Dizi Channel
+http://192.162.64.222:5200/play/a02l/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/03/c253421f971beb6a69910bf66bc1bafb.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/03/b073ab5957ed4aee4c9ac8ed3e083b36.png" channelId="607" tvg-id="vip-comedy-cee",Viasat Kino Comedy
+http://91.233.215.250:7272/5RqMvVnGzdoBQbf
+#EXTINF:-1 tvg-id="vip-comedy" group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/03/5e738f2ebe9772099746a3f02569d74c.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/03/47e5e480773b7d9aae3a37a44470fa3d.png" channelId="607",viju+ Comedy HD
+https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="vip-megahit" catchup="default" stream-id="stream_id" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/95/index-${start}-${offset}.m3u8?token=610666%2C%2C%2C4924337693" group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/03/76f0b30e924a1de33960fc89374345a5.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/03/49d17121148e124b5382fa88c2f9d746.png" channelId="606" tvg-name="ViP Megahit",viju+ Megahit HD
+https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="vip-premiere" group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/03/5c6dd95a2d1d1ca70b3de0f71f756653.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/03/b584b45deaa1ebe4b9a383bc28b40bb1.png" channelId="605",viju+ Premiere HD
+https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="vip-serial" group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/03/e45c0eda93b8649978bad11b91405952.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/03/6af5f29fc48060b51dee4a8b1f62f626.png" channelId="3894",viju+ Serial HD
+https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="vremia" catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/04/39e22e8381e78d02e76053afa8e03393.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/04/eb6362d2b92345229b1d2be201ab34de.png" channelId="176",Время
+http://46.151.151.245:10007/play/a002
+#EXTINF:-1 tvg-id="domkino" catchup="default" stream-id="stream_id" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/58/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Кино и сериалы" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/298.jpg" channelId="68",Дом Кино
+http://192.162.64.222:5100/play/a01y/index.m3u8
+#EXTINF:-1 tvg-id="domkino-premium" catchup="default" stream-id="stream_id" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/59/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Кино и сериалы",Дом кино премиум HD
+http://46.151.151.245:10007/play/a009
+#EXTINF:-1 tvg-id="evrokino" catchup="default" stream-id="stream_id" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/303/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/0275.png" logo="https://antifriz.tv/storage/images/channel_logos/evrokino-hd.png" channelId="79",Еврокино
+http://192.162.64.99:5100/play/a02s/index.m3u8
+#EXTINF:-1 tvg-id="illuzion-plus" catchup="default" stream-id="stream_id" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/67/index-${start}-${offset}.m3u8?token=610666%2C%2C%2C4924337693" group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/05/a5c487f71b5ae29220f9a6dc2faeb741.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/05/49dd91d5aec30501928147d42d794821.png" channelId="190",Иллюзион +
+http://93.125.34.51:30002/illuzion_plus/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/fe37e1fb229217acad3c1e7bc30af071.jpg" logo="https://picon.ml/kino-24.png" channelId="-1" tvg-name="Kino 24" tvg-id="kino-24" shift="3",Кино 24
+http://146.158.0.56:80/Pro100TV/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/6208.png" logo="https://antifriz.tv/storage/images/pack_logos/a4589792317696060765519a4d2256b8.png" channelId="599" tvg-id="kinopokaz-hd",Кинопоказ HD
+http://streamer1.ruslanatv.ru/russia/kinopokaz_sd_2023/playlist.m3u8
+#EXTINF:-1 tvg-id="kinosat" group-title="Кино и сериалы" tvg-logo="http://tv.kubtel.ru/tv_icon/kinosat.jpg" channelId="4643",Киносат
+http://192.162.64.222:5100/play/a02d/index.m3u8
+#EXTINF:-1 catchup="default" stream-id="stream_id" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/78/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Кино и сериалы" tvg-logo="http://kis.lt/wp-content/uploads/2020/12/09d3683d4142756343249e4479f72889.jpg" logo="http://sh3304149.c.had.su/epg/PIC/%D0%9B%D1%8E%D0%B1%D0%B8%D0%BC%D0%BE%D0%B5%20%D0%BA%D0%B8%D0%BD%D0%BE.png" channelId="314" tvg-id="lubimoe-kino",Любимое кино
+http://91.233.215.250:7272/JS7lUbMstASMl0r
+#EXTINF:-1 catchup="default" stream-id="stream_id" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/97/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/03/8d4b14f56295d25b11a1b25852171921.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/03/fcdb8cdf28135ffaa90dcc702270b014.png" channelId="312" tvg-id="mir-seriala",Мир сериала HD
+http://93.125.34.51:30002/Mir_seriala/index.m3u8
+#EXTINF:-1 tvg-id="mosfilm" catchup="default" stream-id="stream_id" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/63/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/03/aba7d637446ebef9d0acba20e878f211.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/03/66244b5b79efbc8d4f4ac000a6e5dc3c.png" channelId="4908",Мосфильм. Золотая коллекция
+http://europe3.livetv.az/russia/mosfilm_2023/playlist.m3u8
+#EXTINF:-1 tvg-id="nst" group-title="Кино и сериалы" tvg-logo="https://tvbesedka.com/Upload/2022/3/29/23/43/17/4fb73bfd-d612-48f7-8d90-6a586ed6180b.jpg" logo="https://antifriz.tv/storage/images/channel_logos/hct.png" channelId="272",НСТ
+http://192.162.64.222:5100/play/a02c/index.m3u8
+#EXTINF:-1 tvg-id="ntv-serial" catchup="default" stream-id="stream_id" catchup-days="21" catchup-source="http://hez1-flu.iptvstream.site/65/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/07/071e65cbe8a2065c737c617c04a79565.png" logo="http://sh3304149.c.had.su/epg/PIC/%D0%9D%D0%A2%D0%92%20%D0%A1%D0%B5%D1%80%D0%B8%D0%B0%D0%BB.png" channelId="3160",НТВ Сериал
+https://livetv.mylifeisgood.ml/channels/ntvserial24.m3u8
+#EXTINF:-1 tvg-id="ntv-xit" catchup="default" stream-id="stream_id" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/66/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/aec3fe86e065282f04440c7200195241.png" logo="https://satsis.info/uploads/posts/2018-07/1532600127_www.satsis.info__ntv-hit.png" channelId="3865",НТВ Хит
+https://livetv.mylifeisgood.ml/channels/ntvhit24.m3u8
+#EXTINF:-1 tvg-id="pobeda" catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/61/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Кино и сериалы" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/01/201641c0e32451d4115e2a69f8a24850.png" logo="https://i115.fastpic.org/big/2021/0914/c2/d9737b3a987ccb4d57dd2fb9b41d44c2.png" channelId="3922",Победа
+http://46.151.151.245:10007/play/a005
+#EXTINF:-1 tvg-id="russky-bestseller" catchup="default" stream-id="stream_id" catchup-days="21" catchup-source="http://hez1-flu.iptvstream.site/54/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/421.png" logo="http://galamtv.org/uploads/posts/2020-05/1589746332_1587926604_russbets.png" channelId="303",Русский Бестселлер
+http://192.162.64.222:5100/play/a020/index.m3u8
+#EXTINF:-1 tvg-id="russky-detektiv" catchup="default" stream-id="stream_id" catchup-days="21" catchup-source="http://hez1-flu.iptvstream.site/55/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Кино и сериалы" tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/08/rus_dekt.jpg" logo="http://sh3304149.c.had.su/epg/PIC/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B4%D0%B5%D1%82%D0%B5%D0%BA%D1%82%D0%B8%D0%B2.png" channelId="1628",Русский Детектив
+http://192.162.64.222:5100/play/a021/index.m3u8
+#EXTINF:-1 tvg-id="russky-roman" catchup="default" stream-id="stream_id" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/57/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/424.png" logo="https://antifriz.tv/storage/images/pack_logos/55142d88db2d6ad416874fb8283fb6aa.png" channelId="3043",Русский Роман HD
+http://46.151.151.245:10002/play/a0b3
+#EXTINF:-1 tvg-id="russky-illuzion" group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/12/4ff71733bf53cb77b876e2fc76adfccf.png" logo="https://i115.fastpic.org/big/2021/0914/fa/4f35c03126cf0f23cb3d2f897096c7fa.png" channelId="189",Русский иллюзион
+http://93.125.34.51:30002/Russkij_illuzion/index.m3u8
+#EXTINF:-1 tvg-id="khit-hd" catchup="default" stream-id="stream_id" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/99/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/df40f309e47678fff2432490ad73101f.jpg" logo="https://antifriz.tv/storage/images/pack_logos/39614c6364ef51682293f4250c5d26f0.png" channelId="4768",Хит HD
+http://80.251.49.103:8003/play/81
+#EXTINF:-1 tvg-id="bridge-tv-classic" group-title="Музыкальные" tvg-logo="http://only4.tv/ch/2118.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/06/46e8f3801d7e757e999a0607193e7c1b.png" channelId="1816",Bridge TV Classic
+https://livetv.mylifeisgood.ml/channels/bridgeclassictv.m3u8
+#EXTINF:-1 tvg-id="bridge-hd" group-title="Музыкальные" tvg-logo="http://only4.tv/ch/2206.png" logo="https://i115.fastpic.org/big/2021/0914/0d/e8155855e79178a4fdf78948dc76a50d.png" channelId="3164",Bridge TV Deluxe HD
+https://livetv.mylifeisgood.ml/channels/bridgedeluxetv.m3u8
+#EXTINF:-1 tvg-id="bridge-tv-dance" group-title="Музыкальные" tvg-logo="http://only4.tv/ch/1818.png" logo="http://sh3304149.c.had.su/epg/PIC/1_0_16_71A_12_70_1680000_0_0_0.png" channelId="536",Bridge TV Hits
+https://livetv.mylifeisgood.ml/channels/bridgehitstv.m3u8
+#EXTINF:-1 tvg-id="bridge-tv-ruxit" catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/171/index-${start}-${offset}.m3u8?token=610666%2C%2C%2C4924337693" group-title="Музыкальные" tvg-logo="https://online-television.net/uploads/posts//uploads/Bridge%20TV%20%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D0%A5%D0%B8%D1%82.webp?.png" logo="http://sh3304149.c.had.su/epg/PIC/1_0_16_71E_12_70_1680000_0_0_0.png" channelId="484",Bridge TV Русский хит
+https://livetv.mylifeisgood.ml/channels/bridgerushittv.m3u8
+#EXTINF:-1 tvg-id="bridge-tv-shlager" group-title="Музыкальные" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/02/fc6ea1d726cf975a31031663a63812de.jpg" logo="http://s8.hostingkartinok.com/uploads/images/2021/03/52873f2660bc5857b1dfd339c791f476.png" channelId="-1",Bridge TV Шлягер
+https://livetv.mylifeisgood.ml/channels/bridgetvshlyager.m3u8
+#EXTINF:-1 tvg-id="bridge-tv" group-title="Музыкальные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/06/98bc42e071ff11a5fb34ee6af6f3305e.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/06/b841642eecff0786121dd234628d7172.png" channelId="25",Bridge TV
+https://livetv.mylifeisgood.ml/channels/bridgetv24h.m3u8
+#EXTINF:-1 group-title="Музыкальные",Bridge tv Rock
+http://192.162.64.99:4000/play/a05t/index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/03/6cf86e1c953770708c8704fdc3f33fed.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/03/a9a4e4d96f3af15379b3b0ffe01c1878.png" channelId="3921" tvg-id="musicbox",Music Box Gold
+http://192.162.64.99:5200/play/a03h/index.m3u8
+#EXTINF:-1 tvg-id="ru-tv" catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/167/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Музыкальные" tvg-logo="https://photos.live-tv-channels.org/tv-logo/ru-ru-tv-moldova-3978.jpg" logo="http://sh3304149.c.had.su/epg/PIC/1_0_16_714_12_70_1680000_0_0_0.png" channelId="45",RU.TV HD
+https://hls-03-video.webcaramba.com/rutv/live_720/index.m3u8
+#EXTINF:-1 catchup="default" stream-id="stream_id" catchup-days="5" catchup-source="http://hez1-flu.iptvstream.site/169/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Музыкальные" tvg-logo="https://online-red.com/images/tv/Music-Box-ru.png" channelId="28" tvg-id="russian-musicbox",Russian Music Box
+http://192.162.64.222:4000/play/a065/index.m3u8
+#EXTINF:-1 tvg-id="europa-plus-tv" catchup="default" stream-id="stream_id" catchup-days="5" catchup-source="http://hez1-flu.iptvstream.site/166/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Музыкальные" tvg-logo="https://tv.nalench.com/uploads/screenshots/Europa_Plus_TV.jpg" logo="https://upload.wikimedia.org/wikipedia/ru/thumb/8/8f/EuropaPlus.png/640px-EuropaPlus.png" channelId="42",Европа Плюс ТВ
+http://europe3.livetv.az/russia/evropaplus_sd_new_2023/playlist.m3u8
+#EXTINF:-1 tvg-id="zhara" catchup="default" stream-id="stream_id" catchup-days="5" catchup-source="http://hez1-flu.iptvstream.site/170/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Музыкальные" tvg-logo="http://only4.tv/ch/123.png" channelId="285",Жара
+http://192.162.64.222:4000/play/a06h/index.m3u8
+#EXTINF:-1 tvg-id="la-minor" catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/168/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Музыкальные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/39d51feb1bf0e97becf6ca7e778b8777.jpg" logo="https://i115.fastpic.org/big/2021/0914/df/ba3211d66bccb92f2a1d0483298b70df.png" channelId="150",Ля-минор
+http://93.125.34.51:30002/LaMinor/index.m3u8
+#EXTINF:-1 tvg-id="muztv" catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/162/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Музыкальные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/04/25a360b6fee73e109c13d9cb87be8500.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/04/39cf8ffa0c8c658be1d5ed50c0fd61be.png" channelId="136",Муз ТВ
+http://192.162.64.222:4000/play/a029/index.m3u8
+#EXTINF:-1 tvg-id="muzyka-pervogo" catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/163/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Музыкальные" tvg-logo="http://only4.tv/ch/823.png" logo="http://sh3304149.c.had.su/epg/PIC/1_0_16_337_8_70_168AFFC_0_0_0.png" channelId="148",Музыка Первого
+http://192.162.64.222:5200/play/a035/index.m3u8
+#EXTINF:-1 tvg-id="tnt-music" catchup="default" stream-id="stream_id" catchup-days="5" catchup-source="http://hez1-flu.iptvstream.site/164/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Музыкальные" tvg-logo="https://photos.live-tv-channels.org/tv-logo/ru-tnt-music-5304-300x225.jpg" logo="http://s1.hostingkartinok.com/uploads/images/2022/06/a2b0bef273f59be8613ea726c448ccfa.png" channelId="24",ТНТ Music HD
+https://bl.uma.media/live/619345/HLS/619345_3/1/1/playlist.m3u8
+#EXTINF:-1 tvg-id="shanson-tv" catchup="default" stream-id="stream_id" catchup-days="5" catchup-source="http://hez1-flu.iptvstream.site/165/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Музыкальные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/8fd5a47610614009363ee8710437aea7.png" channelId="47",Шансон ТВ
+http://93.125.34.51:30002/ShansonTV/index.m3u8
+#EXTINF:-1 tvg-id="360-podmoskovie" group-title="Общие" tvg-logo="http://regiontelekom.ru/images/channels/hd_360_dnej.png" logo="http://j-p-g.net/if/2018/04/18/0888355001524086213.png" channelId="212",360° HD
+http://146.158.0.56:80/360HD/index.m3u8
+#EXTINF:-1 tvg-id="zvezda" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/08/zvezda_telekanal2.jpeg" logo="http://s1.hostingkartinok.com/uploads/images/2022/05/33419cd00d55f6ca12c495562a213698.png" channelId="17",Звезда HD
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Общие",Звезда плюс
+http://146.158.0.56:80/ZvezdaPlus/index.m3u8
+#EXTINF:-1 tvg-id="mir" catchup="default" stream-id="stream_id" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/21/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Общие" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/be16a17cb1aa0bc78a1d5e3cddbc9225.jpg" logo="http://s1.hostingkartinok.com/uploads/images/2022/05/41e0693c277a9df1ff90f666d6a4b3e1.png" channelId="138",Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="ntv" catchup="default" stream-id="stream_id" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/9/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Общие" tvg-logo="http://kct.me/static/media/images/ktv/%D0%BD%D1%82%D0%B2%20%D1%85%D0%B4.png" channelId="498",НТВ HD
+https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-id="otr" catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/22/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Общие" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/782157ae62d423113e25cdc750bfb6e2.jpg" logo="http://sh3304149.c.had.su/epg/PIC/%D0%9E%D0%A2%D0%A0.png" channelId="784",ОТР
+http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
+#EXTINF:-1 tvg-id="pervy" catchup="default" stream-id="stream_id" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/5/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Общие" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2020/12/82a354c357cde76a13e246bd2c031834.jpg" logo="http://s1.hostingkartinok.com/uploads/images/2022/03/253d713fa8b42b4511edcdb3272f4d08.png" channelId="125",Первый канал HD
+https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 tvg-id="5kanal-ru" catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/16/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Общие" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/5_channel.jpg" logo="http://sh3304149.c.had.su/epg/PIC/1_0_16_3EB_A_70_1680000_0_0_0.png" channelId="7",Пятый канал
+http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
+#EXTINF:-1 tvg-id="rentv" catchup="default" stream-id="stream_id" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/13/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Общие" tvg-logo="http://only4.tv/ch/6260.png" logo="https://iks-online.net/wp-content/uploads/2018/07/REN-TV-HD.png" channelId="120",Рен ТВ HD
+https://livetv.mylifeisgood.ml/channels/rentv.m3u8
+#EXTINF:-1 tvg-id="rossia1" catchup="default" stream-id="stream_id" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/7/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Общие" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1_hd.png" logo="http://s8.hostingkartinok.com/uploads/images/2021/02/67b14dec7f9449a2a2b3e5f42229119a.png" channelId="203",Россия 1 HD
+https://livetv.mylifeisgood.ml/channels/russia1.m3u8
+#EXTINF:-1 tvg-id="kultura" catchup="default" stream-id="stream_id" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/114/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Общие" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_kultura.png" logo="http://www.tamby.info/tv_online/images/120/15.jpg" channelId="5",Россия К
+http://s18209.cdn.ngenix.net/hls/CH_R02_ROSSIAK/playlist.m3u8
+#EXTINF:-1 tvg-id="sts" catchup="default" stream-id="stream_id" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/14/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Общие" tvg-logo="http://only4.tv/ch/5580.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/03/85495f787fd57304ae4ff8085d49ba81.png" channelId="12",СТС HD
+https://livetv.mylifeisgood.ml/channels/sts.m3u8
+#EXTINF:-1 tvg-id="tvcentr" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/182.jpg" logo="http://sh3304149.c.had.su/epg/PIC/TVCENTR.png" channelId="13",ТВЦ
+http://s18209.cdn.ngenix.net/hls/CH_R04_TVC/playlist.m3u8
+#EXTINF:-1 tvg-id="tnt" catchup="default" stream-id="stream_id" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/10/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Общие" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/02/d584e282d48b38a149ee31ccbd4de7ec.jpg" logo="http://sh3304149.c.had.su/epg/PIC/1_0_19_89F_16_70_1680000_0_0_0.png" channelId="3630",ТНТ HD
+https://bl.uma.media/live/317850/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="centralnoye-tv" group-title="Общие" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/7ab5f2afd592dc6342959b577268a180.png" logo="https://receiver.in.ua/wp-content/uploads/2020/08/%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5-%D0%A2%D0%92.png" channelId="3955",Центральное телевидение
+http://192.162.64.222:4000/play/a05y/index.m3u8
+#EXTINF:-1 catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/176/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Познавательные" tvg-logo="https://iptv.live/images/logo/channel/crops/f2fb30f35bf2d80bbda7874c99c594e5.png" channelId="52" tvg-id="365-dnej",365 Дней
+http://146.158.0.56:80/365dney/index.m3u8
+#EXTINF:-1 tvg-id="animal-planet-eu" catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/188/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Познавательные" tvg-logo="http://only4.tv/ch/2202.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/06/76d7eae437a2bdd711a97090911aa51b.png" channelId="240",Animal Planet HD
+http://europe3.livetv.az/russia/animal_planet_sd_new_2023/playlist.m3u8
+#EXTINF:-1 catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/189/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Познавательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/02/c87b53d741efe4a65fc8b50c61e7f5c0.png" logo="http://sh3304149.c.had.su/epg/PIC/Discovery%20Channel%20HD.png" channelId="341" tvg-id="discovery-channel",Discovery HD
+http://88.216.83.245/discovery/index.m3u8
+#EXTINF:-1 catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/190/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Познавательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/26e52b94d3eec81c77dfc3842bd1e84f.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/07/8732af5ca6fa96ce55bdb813a223e901.png" channelId="1508" tvg-id="discovery-science",Discovery Science HD
+http://93.125.34.51:30002/DiscoveryScience/index.m3u8
+#EXTINF:-1 tvg-id="hd-life" group-title="Познавательные" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/1537.jpg" logo="http://sh3304149.c.had.su/epg/PIC/1_0_19_2F47_C_70_1680000_0_0_0.png" channelId="234",HD Life
+http://93.125.34.51:30002/HDLife/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0022/7859/brand.gif" logo="http://epg.openboxfan.com/picon/historyhd.png" channelId="1456" tvg-id="history-ru",History HD
+http://91.233.215.250:7272/PK41HvJyzlbR8XZ
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/04/792d67566f229310fdac75fca849d0b0.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/04/7170ae048171c4780248af6347a2a2a3.png" channelId="-1" tvg-id="kino-1-hd",Kino 1 HD
+http://91.233.215.250:7272/i0yRlKi4YlfGtF6
+#EXTINF:-1 tvg-id="rtg-hd" group-title="Познавательные" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072019/rtghd_black.png" logo="http://sh3304149.c.had.su/epg/PIC/RTG%20HD.png" channelId="1494",RTG HD
+http://93.125.34.51:30002/RTGHD/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/6186.png" logo="https://tv-server.trinity-tv.net/icons/channels/424.png" channelId="2485" tvg-id="terra",Terra
+http://93.125.34.51:30002/NationalGeographic/index.m3u8
+#EXTINF:-1 tvg-id="sovsek" catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/33/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Познавательные",Top Secret
+https://livetv.mylifeisgood.ml/channels/sovsec127.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/26006.png" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Travel_Channel_HD_Logo.png/1200px-Travel_Channel_HD_Logo.png" channelId="235" tvg-id="travel-channel",Travel Channel HD
+http://88.216.83.245/travel/index.m3u8
+#EXTINF:-1 tvg-id="travel-adventure" catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/194/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Познавательные" tvg-logo="https://i.ibb.co/55pqYx8/Travel-Plus-Adventure-220x220.png" logo="https://i.ibb.co/KVCnQzR/Travel-Plus-Adventure-220x132-tr.png" channelId="596",Travel+Adventure
+http://192.162.64.99:5200/play/a025/index.m3u8
+#EXTINF:-1 tvg-id="zoopark" catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/320/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Познавательные" tvg-logo="http://only4.tv/ch/1113.png" channelId="167",Zooпарк
+http://94.158.54.107/89/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="viasat-explore" catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/195/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Познавательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/03/c8431c6b419350685df1324f50767c97.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/03/52f9133234c5744b635d900da2db9f64.png" channelId="165" tvg-name="Viasat Explore",viju Explore HD
+https://bl.uma.media/live/485546/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="viasat-history" catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/196/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Познавательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/03/18f283e93549560c25cc64504c4f1340.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/03/e505b1ecdecff3197f9fc114dc22e9ed.png" channelId="130" tvg-name="Viasat History",viju History HD
+https://bl.uma.media/live/485544/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="viasat-nature" catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/197/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Познавательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/03/f9594814523caac76d84b83ee2ee32cc.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/03/4036b4997cd53aa9bea1f76bc2874e90.png" channelId="757" tvg-name="Viasat Nature",viju Nature HD
+https://bl.uma.media/live/485545/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="viasat-nature" catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/199/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Познавательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/03/38e084bc5676ad33dee15fefa2f9ec55.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/03/54d3b15df290edd822fdb3ef557e3372.png" channelId="588",viju+ Planet HD
+http://80.251.49.103:8003/play/217
+#EXTINF:-1 tvg-id="avto24" catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/42/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Познавательные" tvg-logo="http://only4.tv/ch/702.png" logo="http://sh3304149.c.had.su/epg/PIC/1_0_16_2BE_7_70_1680000_0_0_0.png" channelId="1282",Авто 24
+http://192.162.64.222:5000/play/a01o/index.m3u8
+#EXTINF:-1 tvg-id="avto-plus" catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/43/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Познавательные" tvg-logo="http://only4.tv/ch/102.png" logo="http://sh3304149.c.had.su/epg/PIC/1_0_16_66_1_70_1680000_0_0_0.png" channelId="55",Авто Плюс
+http://192.162.64.222:5200/play/a017/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Большая азия
+http://46.151.151.245:10007/play/a00a
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/5599.png" logo="http://sh3304149.c.had.su/epg/PIC/%D0%92%20%D0%BC%D0%B8%D1%80%D0%B5%20%D0%B6%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D1%8B%D1%85%20HD.png" channelId="3974" tvg-id="v-mire-zhivotnyx-hd",В мире животных HD
+http://94.158.54.107/82/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/2105.png" logo="http://epg.openboxfan.com/picon/диалогиорыбалке.png" channelId="3709" tvg-id="dialogi-o-rybalke",Диалоги о рыбалке
+http://192.162.64.99:5000/play/a03b/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2020/12/04ae9f3537063ac965be96d757ed53ac.png" logo="http://sh3304149.c.had.su/epg/PIC/%D0%94%D0%B8%D0%BA%D0%B0%D1%8F%20%D0%9E%D1%85%D0%BE%D1%82%D0%B0%20HD.png" channelId="3881" tvg-id="dikaya-oxota-hd",Дикая охота HD
+http://192.162.64.99:5000/play/a03a/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2020/12/cb17ad567438ca901cfd50005ed9a4fe.png" logo="http://sh3304149.c.had.su/epg/PIC/%D0%94%D0%B8%D0%BA%D0%B0%D1%8F%20%D1%80%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0%20HD.png" channelId="3882" tvg-id="dikaya-rybalka-hd",Дикая рыбалка HD
+http://192.162.64.99:5000/play/a039/index.m3u8
+#EXTINF:-1 tvg-id="dikiy" catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/317/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Познавательные" tvg-logo="http://only4.tv/ch/2128.png" logo="http://sh3304149.c.had.su/epg/PIC/1_0_16_7D_1_70_1680000_0_0_0.png" channelId="3872",Дикий
+http://138.201.67.145:8081/Dikiy/index.m3u8
+#EXTINF:-1 catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/180/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Познавательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/04/536f4f356ac9050674dc07768a40b5dc.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/04/d38b91a6b112f9ccff6f7ddbc723a79d.png" channelId="3647" tvg-id="doktor",Доктор
+http://178.163.48.77:4022/udp/234.0.0.232:2000
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/5563.png" logo="https://i115.fastpic.org/big/2021/0914/9d/c9fc56c0cacd01c49f1cd58bacddcf9d.png" channelId="220" tvg-id="drive",Драйв
+http://94.158.54.107/77/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/03/dd858945401f5872e3f9f253673443d2.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/03/6112098224542f3016cf23a7296ad0f9.png" channelId="562" tvg-id="zhivaya-planeta",Живая планета
+http://192.162.64.99:5000/play/a033/index.m3u8
+#EXTINF:-1 tvg-id="zhivi" catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/290/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Познавательные" tvg-logo="http://only4.tv/ch/6224.png" logo="http://epg.openboxfan.com/picon/%D0%B6%D0%B8%D0%B2%D0%B8.png" channelId="76",Живи
+http://138.201.67.145:8081/zhivi/index.m3u8
+#EXTINF:-1 tvg-id="zagorodnaya-zhizn" catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/177/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Познавательные" tvg-logo="https://crimeastar.net/iptv-logos/79.png" channelId="325",Загородная жизнь HD
+http://93.125.34.51:30002/ZagorodnayaZhizn/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/5fe8fb21186a0feac4afe421c04a564d.png" logo="https://i115.fastpic.org/big/2021/0914/38/23ad3af058423f8340f88d4a6da02838.png" channelId="-1" tvg-name="Загородный Int" tvg-id="zagorodny-int",Загородный Int HD
+https://livetv.mylifeisgood.ml/channels/zagorodint.m3u8
+#EXTINF:-1 tvg-id="istoria" group-title="Познавательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/04/1a957b88284b29b0c08fef0157d9ad66.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/04/4fccc8223f4d1173b9f4376d3c8dfef8.png" channelId="887",История
+http://192.162.64.99:5000/play/a026/index.m3u8
+#EXTINF:-1 tvg-id="kuxnia-tv" catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/34/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Познавательные" tvg-logo="http://glaz-ok.online/wp-content/uploads/2018/05/kuhnya-tv.jpg" logo="http://sh3304149.c.had.su/epg/PIC/%D0%9A%D1%83%D1%85%D0%BD%D1%8F%20%D0%A2%D0%92.png" channelId="75",Кухня ТВ HD
+https://sc.id-tv.kz/kuhnya_hd_34_35.m3u8
+#EXTINF:-1 tvg-id="moya-planeta" catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/184/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Познавательные" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/398.jpg" logo="http://sh3304149.c.had.su/epg/PIC/%D0%9C%D0%BE%D1%8F%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0%20HD.png" channelId="1762",Моя планета HD
+http://93.125.34.51:30002/MoyaPlaneta/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/55707a58ed8b349126d30bd4ce7d3fbd.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/07/053b96572c63b57ad4348e3921bb72c0.png" channelId="869" tvg-id="morskoy",Моя стихия
+http://192.162.64.99:5200/play/a01p/index.m3u8
+#EXTINF:-1 catchup="default" stream-id="stream_id" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/40/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Познавательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/06/358939849f755b769ed63060857128ea.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/06/6af0402151028746a625767550547828.png" channelId="323" tvg-id="muzhskoy",Мужской
+http://93.125.34.51:30002/Muzhskoy/index.m3u8
+#EXTINF:-1 tvg-id="nauka-20" group-title="Познавательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/2b6b5145a6b1b1937d5a0f84dd890f6d.png" logo="http://sh3304149.c.had.su/epg/PIC/%D0%9D%D0%B0%D1%83%D0%BA%D0%B0%202.0.png" channelId="173",Наука 2.0
+http://192.162.64.222:5000/play/a027/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/04/9c046a0f9553dcaf5011749680fdd34c.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/04/f7bb123a0e5abe6738e36946b8ddf151.png" channelId="3923" tvg-id="nasha-sibir-4k",Наша Сибирь 4K
+https://livetv.mylifeisgood.ml/channels/nashasibir4k.m3u8
+#EXTINF:-1 tvg-id="oruzhie" catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/48/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Познавательные" tvg-logo="https://i.ibb.co/GskmkLP/db5ff41244b8dbe5f8f597580b29f1b3.jpg" logo="http://s1.hostingkartinok.com/uploads/images/2022/03/1d97b0e8800ae1e840fae7b3fa1c3be1.png" channelId="223",Оружие
+http://192.162.64.222:5200/play/a01r/index.m3u8
+#EXTINF:-1 tvg-id="eureka-hd" group-title="Познавательные" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/0d3994e9d39d16c0885269ae6735152d.jpg" logo="http://s8.hostingkartinok.com/uploads/images/2021/03/e5a4e926d3bab5288c67f9d8d7251ab3.png" channelId="1800",Первый Космический HD
+http://94.158.54.107/155/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="poexali" group-title="Познавательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/04/9044af12a4a9dbc01e92a76ffc00c365.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/04/e5f45a4fdbc8482ca5946a1c4d987d8c.png" channelId="3295",Поехали!
+http://46.151.151.245:10007/play/a004
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/04/7910461f1308810e12c1daafd799b2dc.png" logo="http://s8.hostingkartinok.com/uploads/images/2021/04/036f2038742c1463076663c80e418c8a.png" channelId="3925" tvg-id="prikluchenia-hd",Приключения HD
+http://europe3.livetv.az/russia/priklyucheniya_2023/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Познавательные" tvg-logo="https://www.telenettv.ru/img/channel-list/logo/mult2/2.jpg" logo="http://sh3304149.c.had.su/epg/PIC/1_0_16_3EF_A_70_1680000_0_0_0.png" channelId="244" tvg-id="spas",Спас
+http://192.162.64.222:4000/play/a05c/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/03/858b33fe748dda9fb3c559d999714773.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/03/8527603a877883b4cdb226f75b613fa8.png" channelId="302" tvg-id="teleputeshestvia",Телепутешествия
+http://192.162.64.99:5200/play/a021/index.m3u8
+#EXTINF:-1 tvg-id="usadba" group-title="Познавательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/5abd55074e4a7895aebb6cf90801f0f3.jpg" logo="http://infoua.biz/image/tv/stream/usadba.png" channelId="222",Усадьба
+http://93.125.34.51:30002/Usadba/index.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/04/ab033fd6ea276495231fcef282db676a.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/04/cfa46bfe64d4a82247796037bb3b883a.png" channelId="-1" tvg-id="1-2",1+2
+http://91.233.215.250:7272/KfbeysdY6Fva3sW
+#EXTINF:-1 tvg-id="2na2" catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/38/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Развлекательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/04/962cbd7bb8e9e4cae565e74c7dc9aaf3.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/04/966f9a6a23a5cf4bc06f7de6084f023c.png" channelId="14",2x2 HD
+https://bl.uma.media/live/317805/HLS/317805_3/1/1/playlist.m3u8
+#EXTINF:-1 tvg-id="8tv-lv" group-title="Развлекательные",8TV (Латвия)
+http://91.233.215.250:7272/kJd8eBVsywE41mz
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/07/3bbc7eb999b1de9829359ba69a4c9f3d.png" logo="http://s8.hostingkartinok.com/uploads/images/2021/03/b252f1a346de20bf223362cd92a6de5e.png" channelId="-1" tvg-name="Gagsnetwork" tvg-id="gags-network",Gags Network
+http://192.162.64.99:5000/play/a02j/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",TV3 Plus HD
+http://91.233.215.250:7272/qx4hiIaBoQlLK7f
+#EXTINF:-1 tvg-id="bobior" catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/39/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Развлекательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/c6c8b884708cf33e850d86140187e810.jpg" logo="http://sh3304149.c.had.su/epg/PIC/%D0%91%D0%BE%D0%B1%D1%91%D1%80.png" channelId="646",Бобёр
+http://46.151.151.245:10007/play/a008
+#EXTINF:-1 tvg-id="domashny" catchup="default" stream-id="stream_id" catchup-days="21" catchup-source="http://hez1-flu.iptvstream.site/15/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Развлекательные" tvg-logo="http://only4.tv/ch/6254.png" logo="https://i115.fastpic.org/big/2021/0914/69/dd6f320bbc2e54c9df2202f1aa02a769.png" channelId="21",Домашний HD
+http://91.233.215.250:7272/CGGe9lr8Dx9PZy1
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2020/11/83b227a840b4d686e7ae32eb89d7bdb7.png" logo="http://s8.hostingkartinok.com/uploads/images/2021/03/e3a0a03e4e26723be182944c4e31c5b1.png" channelId="-1" tvg-id="zal-suda",Зал суда
+http://192.162.64.99:5000/play/a02n/index.m3u8
+#EXTINF:-1 tvg-id="kvn-tv" catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/50/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Развлекательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/03/101ba3240b39ea79d033c16228c53a40.jpg" logo="http://sh3304149.c.had.su/epg/PIC/1_0_16_7C_1_70_1680000_0_0_0.png" channelId="3047",КВН ТВ
+http://146.158.0.56:80/KVN/index.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/e1077ee940f89f8b6c7a37a209e6f0cd.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/06/7749ef84b535c5cd36ade36d65ec79f0.png" channelId="121" tvg-id="kaleydoskop-tv",Калейдоскоп ТВ
+http://46.151.151.245:10002/play/a005
+#EXTINF:-1 catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/28/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Развлекательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/03/6de9e0967ae14f6555c61e707337196b.jpg" logo="http://sh3304149.c.had.su/epg/PIC/1_0_16_4AB0_13_70_1680000_0_0_0.png" channelId="245" tvg-id="mama",Мама
+http://192.162.64.99:5200/play/a01i/index.m3u8
+#EXTINF:-1 tvg-id="ntv-pravo" catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/198/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Развлекательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/07/e93d2c79526c93b504177635d66e8c17.png" logo="http://sh3304149.c.had.su/epg/PIC/%D0%9D%D0%A2%D0%92%20%D0%9F%D1%80%D0%B0%D0%B2%D0%BE.png" channelId="3162",НТВ Право
+http://streamer1.ruslanatv.ru/russia/ntv_pravo_2023/playlist.m3u8
+#EXTINF:-1 tvg-id="ntv-style" group-title="Развлекательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/07/993c01671434c522a2f58e382f0c3b33.png" logo="http://sh3304149.c.had.su/epg/PIC/%D0%9D%D0%A2%D0%92%20%D0%A1%D1%82%D0%B8%D0%BB%D1%8C.png" channelId="3161",НТВ Стиль
+https://livetv.mylifeisgood.ml/channels/ntvstyle24.m3u8
+#EXTINF:-1 tvg-id="nostalgia" catchup="default" stream-id="stream_id" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/26/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Развлекательные" tvg-logo="http://only4.tv/ch/117.png" logo="http://sh3304149.c.had.su/epg/PIC/1_0_16_75_1_70_1680000_0_0_0.png" channelId="160",Ностальгия
+http://93.125.34.51:30002/Nostalgia/index.m3u8
+#EXTINF:-1 catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/18/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Развлекательные" tvg-logo="http://iptv-pro.ru/Logotip-kanalov/perec_international.jpg" logo="http://s1.hostingkartinok.com/uploads/images/2021/07/6efb826c851c5538f60b3542a6e737b2.png" channelId="2909" tvg-id="perec-int",Перец International
+http://192.162.64.222:4000/play/a05g/index.m3u8
+#EXTINF:-1 tvg-id="piatnica" catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/23/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Развлекательные" tvg-logo="http://only4.tv/ch/5562.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/06/4d43ddefc17e32d6c4700598b560aa2e.png" channelId="26",Пятница HD
+https://bl.uma.media/live/317843/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="sts-love" catchup="default" stream-id="stream_id" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/83/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Развлекательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/05/a0c23df588be812ab898fbf1e1813d41.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/05/f58b0704a520aadcc7f197802c32c9de.png" channelId="1571",СТС Love
+http://192.162.64.222:4000/play/a00t/index.m3u8
+#EXTINF:-1 tvg-id="sarafan" catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/32/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Развлекательные" tvg-logo="https://i.ibb.co/VgJcsj2/5d526f1f50b3c5bad276c99b3af2520a.jpg" logo="http://sh3304149.c.had.su/epg/PIC/1_0_16_1A3_4_70_1680000_0_0_0.png" channelId="141",Сарафан
+http://138.201.67.145:8081/sarafan/index.m3u8
+#EXTINF:-1 tvg-id="super" catchup="default" stream-id="stream_id" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/36/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Развлекательные",Суббота HD
+https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://i.ibb.co/P58CG7x/Super-Baltik-220x220.png" logo="https://i.ibb.co/xzwm8vY/Super-Baltik-220x132-tr.png" channelId="-1" tvg-id="super-baltic",Супер Балтик
+http://91.233.215.250:7272/OkcbfGtsHx1g4Vs
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://i.ibb.co/M8XNSTJ/Super-plus-220x220.png" logo="https://i.ibb.co/8rmVbV5/Super-plus-220x132-tr.png" channelId="-1" tvg-id="super-plus",Супер+
+http://91.233.215.250:7272/JkfGhb36Cvs7Fgz
+#EXTINF:-1 tvg-id="tv3-ru" catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/19/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Развлекательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/05/ed53e562aa74b90616a229d50c65dca2.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/05/4269651202e97a4bba9cebfa810090dc.png" channelId="8",ТВ3 HD
+https://bl.uma.media/live/317846/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="tnt4" catchup="default" stream-id="stream_id" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/11/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Развлекательные" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/01/2c5c5e644cdbd6b765ce892d8bb776c3.jpg" logo="https://i115.fastpic.org/big/2021/0914/3b/f7ba8bd4ecb79418188475ed51ccf83b.png" channelId="77",ТНТ4 HD
+https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
+#EXTINF:-1 tvg-id="telekafe" group-title="Развлекательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/03/af72230194eddb410d6ea4fac270f0b0.jpg" logo="http://sh3304149.c.had.su/epg/PIC/1_0_16_338_8_70_168AFFC_0_0_0.png" channelId="161",Телекафе
+http://93.125.34.51:30002/Telecafe/index.m3u8
+#EXTINF:-1 tvg-id="che" catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/24/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Развлекательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/35354fe2070fdf12cea99aa73e2328f4.jpg" logo="http://s1.hostingkartinok.com/uploads/images/2022/06/812154d69d69a971b4cf85143ac822fa.png" channelId="22",Че
+http://s18209.cdn.ngenix.net/hls/CH_R02_PERETZ/playlist.m3u8
+#EXTINF:-1 tvg-id="yu" catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/25/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Развлекательные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/d9ba327d2618e3f2b43cee76742b4401.jpg" logo="http://s1.hostingkartinok.com/uploads/images/2022/06/49614803d2ad33cd89bb80a0930eb4d9.png" channelId="23",Ю
+http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8
+#EXTINF:-1 catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/151/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Спорт" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/379e35160e2f64024f9facb67621cfbc.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/06/f03204750140d099910ffcc15b89de26.png" channelId="225" tvg-id="eurosport1-ru",Eurosport 1 HD
+http://europe3.livetv.az/russia/eurosport1_sd_2023/playlist.m3u8
+#EXTINF:-1 catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/152/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Спорт" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/2c84a67c0936f98193268429ae153048.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/06/20451635d55ed95e124915d606068cb4.png" channelId="933" tvg-id="eurosport2-ru",Eurosport 2 HD
+http://91.233.215.250:7272/4TViUcJR91U6Lzr
+#EXTINF:-1 tvg-id="extreme-sports" group-title="Спорт" tvg-logo="http://only4.tv/ch/19109.png" logo="http://sh3304149.c.had.su/epg/PIC/1_0_16_4AA5_13_70_1680000_0_0_0.png" channelId="156",Extreme sports
+http://streamer1.ruslanatv.ru/russia/extreme_sports_2023/playlist.m3u8
+#EXTINF:-1 tvg-id="kxl-hd" group-title="Спорт",KHL Prime HD
+http://bl.uma.media/live/171748/HLS/171748_4/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="kxl" catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/142/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Спорт" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/09/a29e2f9379a81cff3ff939e30ef15e16.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/09/2d6a14e457510412f70808d1f3921fd6.png" channelId="80",KHL
+http://80.251.49.103:8003/play/184
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/12/8698f8174bf9151672bf27e9d1cd1f35.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/12/f7b9111271a7ddf921e8a7104525471f.png" channelId="3877" tvg-id="m1global",M-1 Global
+http://94.158.54.107/88/tracks-v1a1/mono.m3u8
+#EXTINF:-1 catchup="default" stream-id="stream_id" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/158/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Спорт" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/01/0f0f980a78fb2df029c38ceac4265105.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/06/938d5b25e6e89631175a7c77e3f36918.png" channelId="4848" tvg-id="setanta-sports",Setanta Sports 1 HD
+http://94.158.54.107/94/tracks-v1a1/mono.m3u8
+#EXTINF:-1 catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/313/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Спорт" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/01/ee06a729ee812dc59b8f33d9deb126e0.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/06/c1eb2dd0be9de9c5fa45b272e63b9fbe.png" channelId="4849" tvg-name="Setanta Sports 2" tvg-id="setanta-sports-plus",Setanta Sports 2 HD
+http://94.158.54.107/95/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="viasat-sport" catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/312/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Спорт" tvg-logo="http://only4.tv/ch/5568.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/03/b130a25ae0694fbc209ee245fd101e7a.png" channelId="1383" tvg-name="Viasat Sport",Viasat Sport HD
+http://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="konny-mir" catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/145/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Спорт" tvg-logo="http://only4.tv/ch/0150.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/07/b4abd82262399a6c7c132c67002b3a4b.png" channelId="1561",Конный мир HD
+https://bl.uma.media/live/400930/HLS/4614144_3/1/1/playlist.m3u8
+#EXTINF:-1 tvg-id="match-tv" catchup="default" stream-id="stream_id" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/132/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Спорт" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/5bfde97e9057b0ccebd05c7f40a350b8.png" logo="http://sh3304149.c.had.su/epg/PIC/1_0_19_89C_16_70_1680000_0_0_0.png" channelId="4",Матч! HD
+https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="match-arena" catchup="default" stream-id="stream_id" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/138/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Спорт" tvg-logo="http://only4.tv/ch/12104.png" logo="http://sh3304149.c.had.su/epg/PIC/1_0_19_2F48_C_70_1680000_0_0_0.png" channelId="85",Матч! Арена HD
+http://bl.uma.media/live/126868/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="match-boets" catchup="default" stream-id="stream_id" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/139/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Спорт" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/03/0c3262b5533961ef860c3952e709f0ad.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/03/61e8630fd2649b2032cce8670868258e.png" channelId="81",Матч! Боец
+http://bl.uma.media/live/132838/HLS/132838_4/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="match-igra" catchup="default" stream-id="stream_id" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/140/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Спорт" tvg-logo="http://only4.tv/ch/0215.png" logo="http://sh3304149.c.had.su/epg/PIC/1_0_19_2F46_C_70_1680000_0_0_0.png" channelId="569",Матч! Игра HD
+http://bl.uma.media/live/154036/HLS/154036_4/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="match-planeta" group-title="Спорт" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/04/cf249e65252b5b396c7abe91006ccd99.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/04/718e7c96fd3d57b161daf4b3a5c238ae.png" channelId="447",Матч! Планета
+http://bl.uma.media/live/126869/HLS/6866944_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="match-premier" catchup="default" stream-id="stream_id" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/134/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Спорт" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/04/19da9ebdf96ba76d19ae778a4a672d56.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/04/37158dbd5d899e08ae91272747fcf852.png" channelId="277",Матч! Премьер HD
+https://bl.uma.media/live/126866/HLS/6866944_4/1/1/playlist.m3u8
+#EXTINF:-1 tvg-id="match-nash-sport" catchup="default" stream-id="stream_id" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/141/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Спорт" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/01/dd3b8ff3ff848c83006900eaa8f88297.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/07/cae9d73b45825d9adc9fa2a3f808bf62.png" channelId="84",Матч! Страна
+https://bl.uma.media/live/291661/HLS/4614144_3/1/1/playlist.m3u8
+#EXTINF:-1 tvg-id="match-football1" catchup="default" stream-id="stream_id" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/135/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Спорт" tvg-logo="http://only4.tv/ch/14105.png" logo="http://sh3304149.c.had.su/epg/PIC/1_0_19_3719_E_70_1680000_0_0_0.png" channelId="553",Матч! Футбол 1 HD
+http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="match-football2" catchup="default" stream-id="stream_id" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/136/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Спорт" tvg-logo="http://only4.tv/ch/1401.png" logo="http://sh3304149.c.had.su/epg/PIC/1_0_19_579_E_70_1680000_0_0_0.png" channelId="554",Матч! Футбол 2 HD
+http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="match-football3" catchup="default" stream-id="stream_id" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/137/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Спорт" tvg-logo="http://only4.tv/ch/1402.png" logo="http://sh3304149.c.had.su/epg/PIC/1_0_19_57A_E_70_1680000_0_0_0.png" channelId="2831",Матч! Футбол 3 HD
+http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="mir-basketbola" catchup="default" stream-id="stream_id" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/149/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Спорт" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/04/b81feac407b39c065fb4443263274cee.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/04/ef9e9e7a337116e685be68e91dbce947.png" channelId="4516",Мир Баскетбола
+http://192.162.64.222:5200/play/a01n/index.m3u8
+#EXTINF:-1 tvg-id="russky-ekstrim" catchup="default" stream-id="stream_id" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/149/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Спорт" tvg-logo="https://olympic-history.ru/800/600/http/www.extremtv.ru/files/re-retro.png" channelId="154",Русский экстрим
+http://192.162.64.222:5200/play/a01w/index.m3u8
+#EXTINF:-1 catchup="default" stream-id="stream_id" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/146/index-${start}-${offset}.m3u8?token=490352%2C%2C%2C8907140909" group-title="Спорт" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/02/32adce098b1252e092c6f9c0fee8a3bb.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/02/bbee0bd07c85d39a2921f90014a81085.png" channelId="631" tvg-id="start",Старт
+http://192.162.64.99:5000/play/a02h/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/04/c646578298e9349525513ff85cc08ab7.png" logo="http://s1.hostingkartinok.com/uploads/images/2023/04/b79b8c3bf962462989e320ffe2373617.png" channelId="919" tvg-id="football-ru",Телеканал Футбол
+http://192.162.64.99:5000/play/a03h/index.m3u8
